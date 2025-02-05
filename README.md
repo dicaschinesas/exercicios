@@ -8,3 +8,7 @@
  
 <a href="HSK4 - 02.html">GRAMÁTICA 02 - 死了</a>
  (<a href="HSK4 - 02 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 03.html">GRAMÁTICA 03 - 要是..., 就...</a>
+ (<a href="HSK4 - 03 - respostas.html">Respostas</a>)
+ 
