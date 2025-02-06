@@ -63,7 +63,67 @@
 <a href="HSK4 - 20.html">GRAMÁTICA 20</a>
 (<a href="HSK4 - 20 - respostas.html">Respostas</a>)
 
-<!-- Continue this pattern up to 112 -->
+<a href="HSK4 - 21.html">GRAMÁTICA 21</a>
+(<a href="HSK4 - 21 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 22.html">GRAMÁTICA 22</a>
+(<a href="HSK4 - 22 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 23.html">GRAMÁTICA 23</a>
+(<a href="HSK4 - 23 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 24.html">GRAMÁTICA 24</a>
+(<a href="HSK4 - 24 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 25.html">GRAMÁTICA 25</a>
+(<a href="HSK4 - 25 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 26.html">GRAMÁTICA 26</a>
+(<a href="HSK4 - 26 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 27.html">GRAMÁTICA 27</a>
+(<a href="HSK4 - 27 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 28.html">GRAMÁTICA 28</a>
+(<a href="HSK4 - 28 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 29.html">GRAMÁTICA 29</a>
+(<a href="HSK4 - 29 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 30.html">GRAMÁTICA 30</a>
+(<a href="HSK4 - 30 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 31.html">GRAMÁTICA 31</a>
+(<a href="HSK4 - 31 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 32.html">GRAMÁTICA 32</a>
+(<a href="HSK4 - 32 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 33.html">GRAMÁTICA 33</a>
+(<a href="HSK4 - 33 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 34.html">GRAMÁTICA 34</a>
+(<a href="HSK4 - 34 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 35.html">GRAMÁTICA 35</a>
+(<a href="HSK4 - 35 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 36.html">GRAMÁTICA 36</a>
+(<a href="HSK4 - 36 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 37.html">GRAMÁTICA 37</a>
+(<a href="HSK4 - 37 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 38.html">GRAMÁTICA 38</a>
+(<a href="HSK4 - 38 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 39.html">GRAMÁTICA 39</a>
+(<a href="HSK4 - 39 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 40.html">GRAMÁTICA 40</a>
+(<a href="HSK4 - 40 - respostas.html">Respostas</a>)
+
+
 
 <a href="HSK4 - 112.html">GRAMÁTICA 112</a>
 (<a href="HSK4 - 112 - respostas.html">Respostas</a>)
