@@ -1,7 +1,13 @@
-<p><span style="color: #ff0000; font-size: 18pt;"><strong>Exercícios de Gramática Chinesa HSK</strong></span></p>
-
-
-<strong>HSK4</strong>
+<p style="text-align: center;"><span style="font-size: 36pt;"><strong>Exercícios de HSK</strong></span></p>
+<p> </p>
+<h1 class="col-auto characters" style="text-align: left;"><span style="background-color: #ff99cc;"> HSK <span style="color: #ff0000;"><span style="color: #ffffff;">1</span> </span></span><span style="font-size: 14pt;"> </span></h1>
+<p> </p>
+<h1 class="col-auto characters" style="text-align: left;"><span style="background-color: #33cccc;"> HSK <span style="color: #ffffff;">2</span><span style="color: #ff0000;"> </span></span></h1>
+<p> </p>
+<h1 class="col-auto characters" style="text-align: left;"><span style="background-color: #00ccff;"> HSK <span style="color: #ff0000;"><span style="color: #ffffff;">3</span> </span></span><span style="color: #ff0000;"> </span></h1>
+<p> </p>
+<h1 class="col-auto characters" style="text-align: left;"><span style="background-color: #ffcc99;"> HSK <span style="color: #ff0000;"><span style="color: #ffffff;">4</span> </span></span><span style="color: #ff0000;"> </span></h1>
+<p> </p>
 
 <a href="HSK4 - 01.html">GRAMÁTICA 01</a>
  (<a href="HSK4 - 01 - respostas.html">Respostas</a>)
@@ -108,9 +114,6 @@
 <a href="HSK4 - 35.html">GRAMÁTICA 35</a>
 (<a href="HSK4 - 35 - respostas.html">Respostas</a>)
 
-<a href="HSK4 - 36.html">GRAMÁTICA 36</a>
-(<a href="HSK4 - 36 - respostas.html">Respostas</a>)
-
 <a href="HSK4 - 37.html">GRAMÁTICA 37</a>
 (<a href="HSK4 - 37 - respostas.html">Respostas</a>)
 
@@ -122,6 +125,133 @@
 
 <a href="HSK4 - 40.html">GRAMÁTICA 40</a>
 (<a href="HSK4 - 40 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 41.html">GRAMÁTICA 41</a>
+(<a href="HSK4 - 41 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 42.html">GRAMÁTICA 42</a>
+(<a href="HSK4 - 42 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 43.html">GRAMÁTICA 43</a>
+(<a href="HSK4 - 43 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 44.html">GRAMÁTICA 44</a>
+(<a href="HSK4 - 44 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 45.html">GRAMÁTICA 45</a>
+(<a href="HSK4 - 45 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 46.html">GRAMÁTICA 46</a>
+(<a href="HSK4 - 46 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 47.html">GRAMÁTICA 47</a>
+(<a href="HSK4 - 47 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 48.html">GRAMÁTICA 48</a>
+(<a href="HSK4 - 48 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 49.html">GRAMÁTICA 49</a>
+(<a href="HSK4 - 49 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 50.html">GRAMÁTICA 50</a>
+(<a href="HSK4 - 50 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 51.html">GRAMÁTICA 51</a>
+(<a href="HSK4 - 51 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 52.html">GRAMÁTICA 52</a>
+(<a href="HSK4 - 52 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 53.html">GRAMÁTICA 53</a>
+(<a href="HSK4 - 53 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 54.html">GRAMÁTICA 54</a>
+(<a href="HSK4 - 54 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 55.html">GRAMÁTICA 55</a>
+(<a href="HSK4 - 55 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 56.html">GRAMÁTICA 56</a>
+(<a href="HSK4 - 56 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 57.html">GRAMÁTICA 57</a>
+(<a href="HSK4 - 57 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 58.html">GRAMÁTICA 58</a>
+(<a href="HSK4 - 58 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 59.html">GRAMÁTICA 59</a>
+(<a href="HSK4 - 59 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 60.html">GRAMÁTICA 60</a>
+(<a href="HSK4 - 60 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 61.html">GRAMÁTICA 61</a>
+(<a href="HSK4 - 61 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 62.html">GRAMÁTICA 62</a>
+(<a href="HSK4 - 62 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 63.html">GRAMÁTICA 63</a>
+(<a href="HSK4 - 63 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 64.html">GRAMÁTICA 64</a>
+(<a href="HSK4 - 64 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 65.html">GRAMÁTICA 65</a>
+(<a href="HSK4 - 65 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 66.html">GRAMÁTICA 66</a>
+(<a href="HSK4 - 66 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 67.html">GRAMÁTICA 67</a>
+(<a href="HSK4 - 67 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 68.html">GRAMÁTICA 68</a>
+(<a href="HSK4 - 68 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 69.html">GRAMÁTICA 69</a>
+(<a href="HSK4 - 69 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 70.html">GRAMÁTICA 70</a>
+(<a href="HSK4 - 70 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 71.html">GRAMÁTICA 71</a>
+(<a href="HSK4 - 71 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 72.html">GRAMÁTICA 72</a>
+(<a href="HSK4 - 72 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 73.html">GRAMÁTICA 73</a>
+(<a href="HSK4 - 73 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 74.html">GRAMÁTICA 74</a>
+(<a href="HSK4 - 74 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 75.html">GRAMÁTICA 75</a>
+(<a href="HSK4 - 75 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 76.html">GRAMÁTICA 76</a>
+(<a href="HSK4 - 76 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 77.html">GRAMÁTICA 77</a>
+(<a href="HSK4 - 77 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 78.html">GRAMÁTICA 78</a>
+(<a href="HSK4 - 78 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 79.html">GRAMÁTICA 79</a>
+(<a href="HSK4 - 79 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 80.html">GRAMÁTICA 80</a>
+(<a href="HSK4 - 80 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 81.html">GRAMÁTICA 81</a>
+(<a href="HSK4 - 81 - respostas.html">Respostas</a>)
+
+<a href="HSK4 - 82.html">GRAMÁTICA 82</a>
+(<a href="HSK4 - 82 - respostas.html">Respostas</a>)
+
 
 
 
