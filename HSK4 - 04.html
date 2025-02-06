@@ -100,6 +100,15 @@
       color: red;
       font-weight: bold;
     }
+    .celebration {
+      display: none;
+      text-align: center;
+      margin-top: 20px;
+    }
+    .celebration img {
+      width: 150px;
+      height: auto;
+    }
   </style>
 </head>
 <body>
@@ -196,6 +205,10 @@
     <button class="try-again" onclick="resetQuiz()">Tentar Novamente</button>
 
     <div class="result" id="result"></div>
+    <div class="celebration" id="celebration">
+      <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" alt="Celebration GIF">
+      <p>Parabéns! Acertou todas as respostas! 🎉</p>
+    </div>
   </div>
 
   <script>
@@ -216,6 +229,7 @@
       let score = 0;
       const resultDiv = document.getElementById("result");
       const progressBar = document.getElementById("progress");
+      const celebrationDiv = document.getElementById("celebration");
 
       // Verificar Q1-Q5 (Escolha Múltipla)
       for (let i = 1; i <= 5; i++) {
@@ -246,6 +260,13 @@
       // Exibir resultado
       resultDiv.innerHTML = `Acertou ${score} de 10!`;
       document.querySelector(".try-again").style.display = "block";
+
+      // Mostrar animação de celebração se o score for 10/10
+      if (score === 10) {
+        celebrationDiv.style.display = "block";
+      } else {
+        celebrationDiv.style.display = "none";
+      }
     }
 
     function resetQuiz() {
@@ -265,9 +286,10 @@
       // Reiniciar barra de progresso
       document.getElementById("progress").style.width = "0%";
 
-      // Ocultar resultado e botão "Tentar Novamente"
+      // Ocultar resultado, botão "Tentar Novamente" e animação de celebração
       document.getElementById("result").innerHTML = "";
       document.querySelector(".try-again").style.display = "none";
+      document.getElementById("celebration").style.display = "none";
     }
   </script>
 
