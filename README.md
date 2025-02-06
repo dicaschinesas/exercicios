@@ -12,6 +12,6 @@
 <a href="HSK4 - 03.html">GRAMÁTICA 03 - 要是..., 就...</a>
  (<a href="HSK4 - 03 - respostas.html">Respostas</a>)
  
-<a href="HSK4 - 04.html">GRAMÁTICA 04 - 要是..., 就...</a>
+<a href="HSK4 - 04.html">GRAMÁTICA 04 - 不仅...而且／也／还...</a>
  (<a href="HSK4 - 04 - respostas.html">Respostas</a>)
  
