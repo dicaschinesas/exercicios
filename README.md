@@ -32,4 +32,13 @@
  
  <a href="HSK4 - 10.html">GRAMÁTICA 10</a>
  (<a href="HSK4 - 10 - respostas.html">Respostas</a>)
+
+   <script>
+    let list = "";
+    for (let i = 1; i <= 112; i++) {
+      let num = i.toString().padStart(2, '0'); // Garantindo dois dígitos
+      list += `<li><a href="HSK4 - ${num}.html">GRAMÁTICA ${num}</a> (<a href="HSK4 - ${num} - respostas.html">Respostas</a>)</li>`;
+    }
+    document.write(`<ul>${list}</ul>`);
+  </script>
  
