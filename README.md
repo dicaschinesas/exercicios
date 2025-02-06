@@ -347,3 +347,7 @@
 <h1 class="col-auto characters" style="text-align: left;"><span style="background-color: #dedede;"> HSK <span style="color: #ff0000;"><span style="color: #ffffff;">6</span> </span></span><span style="color: #ff0000; font-size: 14pt;">  </span></h1>
 <p> </p>
 
+<figure class="wp-block-image aligncenter size-large is-resized" style="text-align: center;"><img alt="" class="wp-image-1907" src="https://pensamentonomada.wordpress.com/wp-content/uploads/2025/02/dicas-chinesas-copy.png?w=383" style="width: 275px; height: 288px;" /></figure>
+<p style="text-align: center;"><span style="font-size: 24pt;"><strong><a href="https://dicaschinesas.blogs.sapo.pt/">dicaschinesas.blogs.sapo.pt</a></strong></span></p>
+
+
