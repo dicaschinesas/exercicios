@@ -257,3 +257,9 @@
 
 <a href="HSK4 - 112.html">GRAMÁTICA 112</a>
 (<a href="HSK4 - 112 - respostas.html">Respostas</a>)
+
+<h1 class="col-auto characters" style="text-align: left;"><span style="background-color: #999999;"> HSK <span style="color: #ff0000;"><span style="color: #ffffff;">5 </span></span></span> </h1>
+<p> </p>
+<h1 class="col-auto characters" style="text-align: left;"><span style="background-color: #dedede;"> HSK <span style="color: #ff0000;"><span style="color: #ffffff;">6</span> </span></span><span style="color: #ff0000; font-size: 14pt;">  </span></h1>
+<p> </p>
+
