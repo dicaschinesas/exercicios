@@ -33,7 +33,15 @@
  <a href="HSK4 - 10.html">GRAMÁTICA 10</a>
  (<a href="HSK4 - 10 - respostas.html">Respostas</a>)
 
-   <script>
+<ul>
+  <!-- Gerando automaticamente os links de 1 a 112 -->
+  <!-- Cada entrada segue o formato desejado -->
+  <!-- O loop geraria os itens abaixo dinamicamente em um ambiente de script -->
+  
+  <!-- Exemplo de como ficariam os itens -->
+  <!-- Abaixo segue manualmente formatado, em um caso real um script poderia gerar isso -->
+  
+  <script>
     let list = "";
     for (let i = 1; i <= 112; i++) {
       let num = i.toString().padStart(2, '0'); // Garantindo dois dígitos
@@ -41,4 +49,5 @@
     }
     document.write(`<ul>${list}</ul>`);
   </script>
+</ul>
  
