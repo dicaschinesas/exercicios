@@ -33,21 +33,4 @@
  <a href="HSK4 - 10.html">GRAMÁTICA 10</a>
  (<a href="HSK4 - 10 - respostas.html">Respostas</a>)
 
-<ul>
-  <!-- Gerando automaticamente os links de 1 a 112 -->
-  
-  <script>
-    document.addEventListener("DOMContentLoaded", function() {
-      let list = document.getElementById("grammar-list");
-      for (let i = 1; i <= 112; i++) {
-        let num = i.toString().padStart(2, '0'); // Garantindo dois dígitos
-        let li = document.createElement("li");
-        li.innerHTML = `<a href="HSK4 - ${num}.html">GRAMÁTICA ${num}</a> (<a href="HSK4 - ${num} - respostas.html">Respostas</a>)`;
-        list.appendChild(li);
-      }
-    });
-  </script>
-
-  <ul id="grammar-list"></ul>
-</ul>
  
