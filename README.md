@@ -4,7 +4,7 @@
 <p> </p>
 
 <a href="NOVO HSK1 - 01.html">GRAMÁTICA 01</a>
- (<a href="NOVO HSK4 - 01 - RESPOSTAS.html">Respostas</a>)
+ (<a href="NOVO HSK1 - 01 - RESPOSTAS.html">Respostas</a>)
  
 
 
