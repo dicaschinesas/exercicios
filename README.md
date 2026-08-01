@@ -2,6 +2,12 @@
 <p> </p>
 <h1 class="col-auto characters" style="text-align: left;"><span style="background-color: #ff99cc;"> NOVO HSK <span style="color: #ff0000;"><span style="color: #ffffff;">1</span> </span></span><span style="font-size: 14pt;"> </span></h1>
 <p> </p>
+
+<a href="NOVO HSK1 - 01.html">GRAMÁTICA 01</a>
+ (<a href="NOVO HSK4 - 01 - RESPOSTAS.html">Respostas</a>)
+ 
+
+
 <h1 class="col-auto characters" style="text-align: left;"><span style="background-color: #33cccc;"> HSK <span style="color: #ffffff;">2</span><span style="color: #ff0000;"> </span></span></h1>
 <p> </p>
 <h1 class="col-auto characters" style="text-align: left;"><span style="background-color: #00ccff;"> HSK <span style="color: #ff0000;"><span style="color: #ffffff;">3</span> </span></span><span style="color: #ff0000;"> </span></h1>
