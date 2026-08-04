@@ -8,7 +8,7 @@
  
 
 
-<h1 class="col-auto characters" style="text-align: left;"><span style="background-color: #33cccc;"> HSK <span style="color: #ffffff;">2</span><span style="color: #ff0000;"> </span></span></h1>
+<h1 class="col-auto characters" style="text-align: left;"><span style="background-color: #33cccc;"> NOVO HSK <span style="color: #ffffff;">2</span><span style="color: #ff0000;"> </span></span></h1>
 
 <a href="NOVO HSK2 - 01.html">GRAMÁTICA 01</a>
  (<a href="NOVO HSK2 - 01 - RESPOSTAS.html">Respostas</a>)
