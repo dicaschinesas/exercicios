@@ -18,23 +18,36 @@
 <p> </p>
 <h1 class="col-auto characters" style="text-align: left;"><span style="background-color: #ffcc99;"> HSK <span style="color: #ff0000;"><span style="color: #ffffff;">4</span> </span></span><span style="color: #ff0000;"> </span></h1>
 <p> </p>
-<a href="HSK4 - 01.html">GRAMÁTICA 01</a>
- (<a href="HSK4 - 01 - respostas.html">Respostas</a>)
- 
-<a href="HSK4 - 02.html">GRAMÁTICA 02</a>
- (<a href="HSK4 - 02 - respostas.html">Respostas</a>)
 
-<a href="HSK4 - 03.html">GRAMÁTICA 03</a>
- (<a href="HSK4 - 03 - respostas.html">Respostas</a>)
- 
-<a href="HSK4 - 04.html">GRAMÁTICA 04</a>
- (<a href="HSK4 - 04 - respostas.html">Respostas</a>)
- 
-<a href="HSK4 - 05.html">GRAMÁTICA 05</a>
- (<a href="HSK4 - 05 - respostas.html">Respostas</a>)
 
- <a href="HSK4 - 06.html">GRAMÁTICA 06</a>
- (<a href="HSK4 - 06 - respostas.html">Respostas</a>)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
