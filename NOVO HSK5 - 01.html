@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HSK 5 – NOVA GRAMÁTICA 01 – 彼此</title>
+<style>
+body{font-family:Arial,sans-serif;background:#eeebdd;margin:20px}
+.quiz-container{max-width:700px;margin:auto;background:white;padding:20px;border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,.15)}
+h1{text-align:center}.question{margin-bottom:25px}
+.options label{display:block;padding:10px;margin:8px;background:#f7f7f7;border-radius:5px}
+textarea{width:100%;padding:10px;box-sizing:border-box}
+button{display:block;width:220px;margin:15px auto;padding:10px 20px;background:#4CAF50;color:white;border:0;border-radius:5px;font-size:16px}
+.progress-bar{background:#ddd;height:10px}.progress{background:#4CAF50;height:10px;width:0}
+.correct{color:green}.wrong{color:red}.result{text-align:center;font-weight:bold}
+.logo{text-align:center;margin-top:30px}.logo img{width:150px}.site{text-align:center}
+</style>
+</head>
+<body>
+
+<h1>Exercícios de Gramática Chinesa:<br>
+<span style="color:red">HSK 5 – NOVA GRAMÁTICA 01 – O pronome demonstrativo 彼此</span></h1>
+
+<div class="quiz-container">
+
+<div class="progress-bar"><div id="progress" class="progress"></div></div>
+<p><b>Instruções:</b> Escolha, complete e reordene as frases.</p>
+
+<h2>Parte A – Escolha múltipla</h2>
+
+<div class="question">
+<p>1. 彼此 é normalmente utilizado para indicar:</p>
+<label><input type="radio" name="q1" value="a"> Uma relação recíproca entre duas ou mais pessoas.</label>
+<label><input type="radio" name="q1" value="b"> Uma pessoa ou objeto específico.</label>
+</div>
+
+<div class="question">
+<p>2. Na frase 我们应该尊重彼此。 彼此 significa:</p>
+<label><input type="radio" name="q2" value="a"> Uns aos outros / mutuamente</label>
+<label><input type="radio" name="q2" value="b"> Apenas nós próprios</label>
+</div>
+
+<div class="question">
+<p>3. Qual frase utiliza 彼此 corretamente?</p>
+<label><input type="radio" name="q3" value="a"> 他们彼此了解。</label>
+<label><input type="radio" name="q3" value="b"> 彼此是我的朋友。</label>
+</div>
+
+<h2>Parte B – Complete</h2>
+
+<div class="question">
+<p>4. 我们应该_____尊重对方。</p>
+<label><input type="radio" name="q4" value="a"> 彼此</label>
+<label><input type="radio" name="q4" value="b"> 那里</label>
+</div>
+
+<div class="question">
+<p>5. 他们已经认识很多年了，对_____都很了解。</p>
+<label><input type="radio" name="q5" value="a"> 彼此</label>
+<label><input type="radio" name="q5" value="b"> 自己</label>
+</div>
+
+<h2>Parte D – Reordenar</h2>
+
+<div class="question">
+<p>6. 彼此 / 他们 / 了解 / 很 / 。</p>
+<textarea id="q6"></textarea>
+</div>
+
+<div class="question">
+<p>7. 应该 / 我们 / 尊重 / 彼此 / 。</p>
+<textarea id="q7"></textarea>
+</div>
+
+<div class="question">
+<p>8. 对彼此 / 他们 / 很 / 了解 / 。</p>
+<textarea id="q8"></textarea>
+</div>
+
+<div class="question">
+<p>9. 彼此 / 他们 / 应该 / 尊重 / 。</p>
+<textarea id="q9"></textarea>
+</div>
+
+<div class="question">
+<p>10. 互相帮助 / 我们 / 应该 / 彼此 / 。</p>
+<textarea id="q10"></textarea>
+</div>
+
+<button onclick="checkAnswers()">Enviar Respostas</button>
+<button onclick="location.reload()">Tentar Novamente</button>
+
+<div id="result" class="result"></div>
+<div id="feedback"></div>
+
+<div class="logo">
+<img src="https://dicaschinesas.com/wp-content/uploads/2026/08/dicas-chinesas-copy.png?w=383" alt="Dicas Chinesas">
+</div>
+<p class="site"><strong><a href="https://dicaschinesas.com/">dicaschinesas.com</a></strong></p>
+
+</div>
+
+<script>
+const answers={
+q1:"a",q2:"a",q3:"a",
+q4:"a",q5:"a",
+q6:"他们彼此很了解。",
+q7:"我们应该尊重彼此。",
+q8:"他们对彼此很了解。",
+q9:"他们应该尊重彼此。",
+q10:"我们应该彼此互相帮助。"
+};
+
+function norm(t){
+return t.trim().replace(/\s+/g,"").replace(/[。？！?!]/g,"")
+}
+
+function checkAnswers(){
+let score=0,f="";
+for(let i=1;i<=5;i++){
+let a=document.querySelector('input[name=q'+i+']:checked');
+if(a&&a.value===answers["q"+i]){
+score++;f+="<p class='correct'>✓ "+i+"</p>";
+}else{
+f+="<p class='wrong'>✗ "+i+" 正确答案: "+answers["q"+i]+"</p>";
+}
+}
+for(let i=6;i<=10;i++){
+if(norm(document.getElementById("q"+i).value)===norm(answers["q"+i])){
+score++;f+="<p class='correct'>✓ "+i+"</p>";
+}else{
+f+="<p class='wrong'>✗ "+i+" 正确答案: "+answers["q"+i]+"</p>";
+}
+}
+document.getElementById("progress").style.width=(score/10*100)+"%";
+document.getElementById("result").innerHTML="Acertou "+score+" de 10!";
+document.getElementById("feedback").innerHTML=f;
+}
+</script>
+
+</body>
+</html>
