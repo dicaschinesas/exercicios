@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>HSK 6 – NOVA GRAMÁTICA 01 – 而已/罢了</title>
+<style>
+body{font-family:Arial,sans-serif;background:#eeebdd;margin:20px}.quiz-container{max-width:700px;margin:auto;background:white;padding:20px;border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,.15)}h1{text-align:center}.question{margin-bottom:25px}.options label{display:block;padding:10px;margin:8px;background:#f7f7f7;border-radius:5px}textarea{width:100%;padding:10px;box-sizing:border-box;min-height:65px}button{display:block;width:220px;margin:15px auto;padding:10px 20px;background:#4CAF50;color:white;border:0;border-radius:5px;font-size:16px}.progress-bar{background:#ddd;height:10px}.progress{background:#4CAF50;height:10px;width:0}.correct{color:green}.wrong{color:red}.result{text-align:center;font-weight:bold}.logo{text-align:center;margin-top:30px}.logo img{width:150px}.site{text-align:center}
+</style></head>
+<body>
+<h1>Exercícios de Gramática Chinesa:<br><span style="color:red">HSK 6 – NOVA GRAMÁTICA 01 – Expressar “e é tudo” com 而已/罢了</span></h1>
+<div class="quiz-container">
+<div class="progress-bar"><div id="progress" class="progress"></div></div>
+<p><b>Instruções:</b> Na Parte 1, escolha a opção correta. Na Parte 2, reordene as palavras para formar uma frase correta.</p>
+
+<h2>Parte 1 – Escolha múltipla</h2>
+<div class="question"><p>1. Qual frase significa “Isto não é nada, é apenas um monte de papel”?</p><label><input type="radio" name="q1" value="a"> 这算什么，只是一堆纸而已。</label><label><input type="radio" name="q1" value="b"> 这算什么，只是一堆纸。</label><label><input type="radio" name="q1" value="c"> 这算什么，只有一堆纸。</label><label><input type="radio" name="q1" value="d"> 这算什么，无非一堆纸。</label></div>
+<div class="question"><p>2. Qual opção completa corretamente a frase? 不要相信他，这_____是他的借口_____。</p><label><input type="radio" name="q2" value="a"> 只是 / 而已</label><label><input type="radio" name="q2" value="b"> 无非 / 罢了</label><label><input type="radio" name="q2" value="c"> 不过 / 只有</label><label><input type="radio" name="q2" value="d"> 只不过 / 只是</label></div>
+<div class="question"><p>3. Qual frase expressa a ideia de que algo “não passa de uma desculpa”?</p><label><input type="radio" name="q3" value="a"> 这只是他的借口。</label><label><input type="radio" name="q3" value="b"> 这无非是他的借口罢了。</label><label><input type="radio" name="q3" value="c"> 这就是他的借口。</label><label><input type="radio" name="q3" value="d"> 这有他的借口。</label></div>
+<div class="question"><p>4. Qual frase utiliza corretamente 只不过……罢了?</p><label><input type="radio" name="q4" value="a"> 她只不过假装不会罢了。</label><label><input type="radio" name="q4" value="b"> 她只不过不会罢了。</label><label><input type="radio" name="q4" value="c"> 她只不过假装不会。</label><label><input type="radio" name="q4" value="d"> 她罢了只不过假装不会。</label></div>
+<div class="question"><p>5. De acordo com a lição, qual afirmação sobre 而已 e 罢了 está correta?</p><label><input type="radio" name="q5" value="a"> 而已 só é usado na linguagem escrita.</label><label><input type="radio" name="q5" value="b"> 罢了 é sempre mais formal.</label><label><input type="radio" name="q5" value="c"> 而已 tende a ser mais neutro e ligeiramente mais formal, enquanto 罢了 é frequente na linguagem falada.</label><label><input type="radio" name="q5" value="d"> Não existe qualquer diferença de nuance.</label></div>
+
+<h2>Parte 2 – Reordenar frases</h2>
+<div class="question"><p>6. 而已 / 我 / 不过 / 是 / 出于好奇 / 随便问问 / 。</p><textarea id="q6"></textarea></div>
+<div class="question"><p>7. 罢了 / 这 / 无非 / 是 / 他的借口 / 。</p><textarea id="q7"></textarea></div>
+<div class="question"><p>8. 而已 / 这 / 只是一堆纸 / 。</p><textarea id="q8"></textarea></div>
+<div class="question"><p>9. 罢了 / 她 / 只不过 / 假装不会 / 。</p><textarea id="q9"></textarea></div>
+<div class="question"><p>10. 而已 / 这 / 不过 / 是 / 一个小问题 / 。</p><textarea id="q10"></textarea></div>
+
+<button onclick="checkAnswers()">Enviar Respostas</button>
+<button onclick="location.reload()">Tentar Novamente</button>
+<div id="result" class="result"></div><div id="feedback"></div>
+<div class="logo"><img src="https://dicaschinesas.com/wp-content/uploads/2026/08/dicas-chinesas-copy.png?w=383" alt="Dicas Chinesas"></div>
+<p class="site"><strong><a href="https://dicaschinesas.com/">dicaschinesas.com</a></strong></p>
+</div>
+<script>
+const answers={q1:"a",q2:"b",q3:"b",q4:"a",q5:"c",q6:"我不过是出于好奇，随便问问而已。",q7:"这无非是他的借口罢了。",q8:"这只是一堆纸而已。",q9:"她只不过假装不会罢了。",q10:"这不过是一个小问题而已。"};
+function norm(t){return t.trim().replace(/\s+/g,"").replace(/[。？！?!]/g,"")}
+function checkAnswers(){let score=0,f="";for(let i=1;i<=5;i++){let a=document.querySelector('input[name=q'+i+']:checked');if(a&&a.value===answers["q"+i]){score++;f+="<p class='correct'>✓ "+i+"</p>"}else f+="<p class='wrong'>✗ "+i+" — Resposta correta: "+answers["q"+i]+"</p>"}for(let i=6;i<=10;i++){if(norm(document.getElementById("q"+i).value)===norm(answers["q"+i])){score++;f+="<p class='correct'>✓ "+i+"</p>"}else f+="<p class='wrong'>✗ "+i+" — Resposta esperada: "+answers["q"+i]+"</p>"}document.getElementById("progress").style.width=(score/10*100)+"%";document.getElementById("result").innerHTML="Acertou "+score+" de 10!";document.getElementById("feedback").innerHTML=f}
+</script></body></html>
